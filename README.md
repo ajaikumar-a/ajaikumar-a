@@ -1,7 +1,10 @@
+# Hello World <img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
+Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:
 <h1 align="center">Hi 👋, I'm Ajaikumar A</h1>
 <h3 align="center">An aspiring data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaikumar07&label=Profile%20views&color=0e75b6&style=flat" alt="ajaikumar07" /> </p>
+
 
 - 🌱 I’m currently learning **SQL**
 
@@ -21,6 +24,8 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaikumar07&show_icons=true&locale=en" alt="ajaikumar07" /></p>
+## My GitHub Stats 📊
+<a href="https://github.com/ajaikumar07/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ajaikumar07&count_private=true&show_icons=true&theme=radical" />
+</a>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaikumar07&" alt="ajaikumar07" /></p>
