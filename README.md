@@ -25,8 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-## My Repo Cards
-<a href="https://github.com/ajaikumar07/ajaikumar07"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ajaikumar07/ajaikumar07.png" width="460px"></a>
+
+
 
 ## My GitHub Stats 📊
 <a href="https://github.com/ajaikumar07/github-readme-stats">
@@ -34,4 +34,4 @@
 </a>
 
 ## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaikumar07)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaikumar07&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
