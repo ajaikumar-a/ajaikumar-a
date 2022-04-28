@@ -30,8 +30,8 @@
 
 ## My GitHub Stats 📊
 <a href="https://github.com/ajaikumar07/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ajaikumar07&count_private=true&show_icons=true&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ajaikumar07&count_private=true&show_icons=true&theme=radical&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
 </a>
 
 ## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaikumar07&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaikumar07&theme=radical&date_format=M%20j%5B%2C%20Y%5D&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://git.io/streak-stats)
