@@ -1,4 +1,4 @@
-
+![](https://github.com/ajaikumar07/ajaikumar07/blob/main/github%20banner%20gif.gif)
 
 <h1 align="center">Hi 👋, I'm Ajaikumar A</h1>
 <h3 align="center">An aspiring data analyst from India</h3>
