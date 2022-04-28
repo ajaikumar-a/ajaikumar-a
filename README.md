@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajaikumar A</h1>
 <h3 align="center">An aspiring data analyst from India</h3>
-<img align="right" src="https://github.com/ajaikumar07/ajaikumar07/blob/main/datagif.PNG" width = 400px>
+<img align="right" src="https://github.com/ajaikumar07/ajaikumar07/blob/main/data.gif" width = 400px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaikumar07&label=Profile%20views&color=0e75b6&style=flat" alt="ajaikumar07" /> </p>
 
