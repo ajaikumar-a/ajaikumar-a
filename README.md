@@ -1,18 +1,20 @@
-![](https://github.com/ajaikumar07/ajaikumar07/blob/main/github%20banner.gif)
+![](https://github.com/ajaikumar-a/ajaikumar-a/blob/main/github%20banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ajaikumar A</h1>
-<h3 align="center">An aspiring data analyst from India</h3>
-<img align="right" src="https://github.com/ajaikumar07/ajaikumar07/blob/main/data.gif" width = 400px>
+<h3 align="left">I am a data enthusiast who wants to help businesses improve their business activities and achieve their business objectives by deriving useful insights from their data.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaikumar07&label=Profile%20views&color=0e75b6&style=flat" alt="ajaikumar07" /> </p>
+  
+<img align="right" src="https://github.com/ajaikumar-a/ajaikumar-a/blob/main/data.gif" width = 400px>
+  
 
 
 
-- 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **ajaikumar2038@gmail.com**
 
-- ⚡ Fun fact **I am a fantasy lover 😁**
+
+<h3 align = "left"> 📫  Get in touch 👉 ajaikumar2038@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +29,8 @@
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaikumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="ajaikumar-a" /> </p>
+  
 <a href="https://github.com/ajaikumar-a/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ajaikumar-a&count_private=true&show_icons=true&theme=radical&border=4F8CC9&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
 </a>
