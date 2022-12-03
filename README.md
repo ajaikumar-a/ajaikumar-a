@@ -29,7 +29,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaikumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="ajaikumar-a" /> </p>
   
 <a href="https://github.com/ajaikumar-a/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ajaikumar-a&count_private=true&show_icons=true&theme=radical&border=4F8CC9&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
