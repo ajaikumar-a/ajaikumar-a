@@ -22,7 +22,6 @@ I have developed a range of skills and expertise in tools such as:
 
 
   
-<img align="right" src="https://github.com/ajaikumar-a/ajaikumar-a/blob/main/data.gif" width = 400px>
   
 
 
