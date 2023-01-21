@@ -1,7 +1,25 @@
 ![](https://github.com/ajaikumar-a/ajaikumar-a/blob/main/github%20banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ajaikumar A</h1>
-<h3 align="left">I am a data enthusiast who wants to help businesses improve their business activities and achieve their business objectives by deriving useful insights from their data.
+  <h3 align="left"> A recent graduate with a degree in Business Administration (Aviation & Logistics) and a strong passion for Data Analysis. I am excited to start my career in Supply Chain, Logistics, and 
+E-Commerce, and I am confident that my skills and experience make me well-suited for a role in this 
+dynamic and growing industry.
+
+<p>
+  
+  
+I have developed a range of skills and expertise in tools such as:
+ 
+ ✅MS Excel
+  
+ ✅SQL
+  
+ ✅Relational Database Management Systems 
+  
+ ✅Power BI
+  
+ ✅Python
+
 
   
 <img align="right" src="https://github.com/ajaikumar-a/ajaikumar-a/blob/main/data.gif" width = 400px>
@@ -13,7 +31,6 @@
 <p align="left">
 <a href="https://twitter.com/_ajaikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ajaikumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajaikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaikumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/ajaikumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajaikumar07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,10 +39,7 @@
 
 
 
-  
-<a href="https://github.com/ajaikumar-a/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ajaikumar-a&count_private=true&show_icons=true&theme=radical&border=4F8CC9&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000" />
-</a>
+
 
 
 ## Streak Stats
