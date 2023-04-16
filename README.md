@@ -6,35 +6,25 @@
 <p>
   
   
-I have developed a range of skills and expertise in tools such as:
+I have developed a range of skills and expertise in tools and areas such as:
  
- ✅MS Excel
+ ✅MS Excel (Pivot tables and charts, Formulas, Lookup functions)
   
  ✅SQL
   
- ✅Relational Database Management Systems 
+ ✅Relational Database Management Systems (MS SQL Server, MySQL, PostgreSQL)
   
- ✅Power BI
+ ✅Power BI (Power Query, Power Pivot, DAX, Dashboards and reports)
   
- ✅Python
+ ✅Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+
+  
+
 
 
   
   
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_ajaikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/ajaikumar-a/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ajaikumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajaikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/ajaikumar-a/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaikumar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-
-
 
 
 
