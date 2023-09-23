@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ajaikumar A<h1></h1>
+## Hi 👋, I'm Ajaikumar A
 A recent graduate with a degree in Business Administration (Aviation & Logistics) and a strong passion for Data Analytics. I am excited to start my career in a data-related role in the Supply Chain, Logistics, or E-Commerce sector, and I am confident that my skills and experience make me well-suited for a role in any of these dynamic and growing sectors.
 
   
