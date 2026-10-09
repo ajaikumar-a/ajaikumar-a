@@ -1,22 +1,7 @@
 
 ## Hi 👋, I'm Ajaikumar A
-I'm working as a Data Analyst with hands-on experience in data analysis, report automation, data migration, ETL pipelines, and API integrations. 
+I’m a Data Engineer with about 3+ years of experience turning raw, messy data into reliable, analytics-ready pipelines. I started out as a data analyst, and that background still shapes how I work: I build with the end user and the business question in mind. 
 
+My day-to-day stack centers on AWS (Glue, Redshift, Lambda, Step Functions, Lake Formation, S3, EventBridge), with PySpark, SQL, Airflow, and PostgreSQL for processing and orchestration. I’m also growing my Azure skills with Data Factory and Databricks. 
 
-  
-  
-I have developed a range of skills and expertise in tools and areas such as:
- 
- ✅MS Excel (Pivot tables and charts, Formulas, Lookup functions)
-  
- ✅SQL
-  
- ✅Relational Database Management Systems (MS SQL Server, MySQL, PostgreSQL)
-  
- ✅Power BI (Power Query, Power Pivot, DAX, Dashboards and reports)
-  
- ✅Python (Pandas, NumPy, Matplotlib, Seaborn)
-
- ✅AWS (EC2, Glue, Lambda, API Gateway, S3, RDS, Redshift)
-
-
+I came into tech from a non-technical background, so I value curiosity, consistent learning, and clear communication. My long-term goal is to grow into a Data Architect, designing scalable, well-governed data platforms. Open to connecting with fellow data professionals and discussing data engineering, cloud, and career transitions.
